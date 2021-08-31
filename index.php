@@ -32,7 +32,7 @@
     <h id="P06" class="section-title">06.	¿Qué es lo que JavaScript hace en tu página web?</h><br>	
     <p class="summary box-answer"> JavaScript permite interactuar entre los ordenadores que acceden a la página web y esta. Ofreciendo la posibilidad de crear aspectos interactivos a tiempo real o semi real dentro de ella.</p>
 
-    <h id="P07" class="section-title">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web<./h><br>	
+    <h id="P07" class="section-title">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web.</h><br>	
     <p class="summary box-answer">Una forma de añadir JavaScript es de manera directa dentro del HTML usando la etiqueta &ltscript&gt&lt/script&gt un ejemplo siendo el siguiente: </p>
     <p class="summary box-answer">
     &ltscript type="text/javascript"&gt<br>
