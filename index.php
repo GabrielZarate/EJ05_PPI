@@ -46,7 +46,6 @@
     </a>
 
 
-    <h id="P07" class="section-title">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web.</h><br>	
     <h id="P07" class="section-title" onclick="showAnswer('A07')">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web.</h><br>	
     <a id="A07" style="display: none;">
     <p class="summary box-answer">Una forma de añadir JavaScript es de manera directa dentro del HTML usando la etiqueta &ltscript&gt&lt/script&gt un ejemplo siendo el siguiente: </p>
