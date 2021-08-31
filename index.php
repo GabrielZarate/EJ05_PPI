@@ -45,12 +45,10 @@
     <p class="summary box-answer"> JavaScript permite interactuar entre los ordenadores que acceden a la página web y esta. Ofreciendo la posibilidad de crear aspectos interactivos a tiempo real o semi real dentro de ella.</p>
     </a>
 
-<<<<<<< Updated upstream:index.php
+
     <h id="P07" class="section-title">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web.</h><br>	
-=======
     <h id="P07" class="section-title" onclick="showAnswer('A07')">07.	Menciona un ejemplo de como añadir JavaScript a tu pagina web.</h><br>	
     <a id="A07" style="display: none;">
->>>>>>> Stashed changes:index.html
     <p class="summary box-answer">Una forma de añadir JavaScript es de manera directa dentro del HTML usando la etiqueta &ltscript&gt&lt/script&gt un ejemplo siendo el siguiente: </p>
     <p class="summary box-answer">
     &ltscript type="text/javascript"&gt<br>
@@ -169,12 +167,9 @@
     <p class="summary box-answer" href="https://developer.mozilla.org/es/docs/Web/Events">https://developer.mozilla.org/es/docs/Web/Events</p><br><br>
     </a>
 
-<<<<<<< Updated upstream:index.php
     <h id="P17" class="section-title">17.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del cliente.</h><br>	
-=======
     <h id="P17" class="section-title" onclick="showAnswer('A17')">17.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del cliente</h><br>	
     <a id="A17" style="display: none;">
->>>>>>> Stashed changes:index.html
     <p class="summary box-answer"> </p>
     <p class="summary box-answer"> Un ejemplo fácil es de guardar datos en el lado cliente en su navegador un ejemplo simple en código es el siguiente: </p>
     <p class="summary box-answer"> 
@@ -185,12 +180,9 @@
     <p class="summary box-answer"> En este ejemplo se recuperaría el registro “Chris”. </p>
     </a>
 
-<<<<<<< Updated upstream:index.php
     <h id="P18" class="section-title">18.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del servidor.</h><br>	
-=======
     <h id="P18" class="section-title" onclick="showAnswer('A18')">18.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del servidor:</h><br>	
     <a id="A18" style="display: none;">
->>>>>>> Stashed changes:index.html
     <p class="summary box-answer">Un ejemplo de esto es el uso de la base de datos conectada a través de JS para almacenar o recuperar datos de manera rápida. </p>
     </a>
     
