@@ -166,7 +166,6 @@
     <p class="summary box-answer" href="https://developer.mozilla.org/es/docs/Web/Events">https://developer.mozilla.org/es/docs/Web/Events</p><br><br>
     </a>
 
-    <h id="P17" class="section-title">17.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del cliente.</h><br>	
     <h id="P17" class="section-title" onclick="showAnswer('A17')">17.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del cliente</h><br>	
     <a id="A17" style="display: none;">
     <p class="summary box-answer"> </p>
@@ -179,7 +178,6 @@
     <p class="summary box-answer"> En este ejemplo se recuperaría el registro “Chris”. </p>
     </a>
 
-    <h id="P18" class="section-title">18.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del servidor.</h><br>	
     <h id="P18" class="section-title" onclick="showAnswer('A18')">18.   Menciona un ejemplo donde JavaScript sea ejecutado del lado del servidor:</h><br>	
     <a id="A18" style="display: none;">
     <p class="summary box-answer">Un ejemplo de esto es el uso de la base de datos conectada a través de JS para almacenar o recuperar datos de manera rápida. </p>
