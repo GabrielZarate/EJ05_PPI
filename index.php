@@ -11,7 +11,7 @@
 <body>
 <div class="main-wrapper">
 
-    <h id="P01" class="section-title" onclick="showAnswer('A01')">01.   ¿Qué es JavaScript? </h><br>
+    <h id="P01" class="section-title" onclick="showAnswer('A01')">01.   ¿Qué es JavaScript? (Click en las preguntas.)</h><br>
     <a id="A01" style="display: none;">
     <p class="summary box-answer" >JavaScript es un lenguaje de programación de concatenación de comandos, lenguaje el cual se complementa muy bien con el desarrollo web. Ofreciendo formas de proyección de información más dinámicas, incluyendo interfaces en tiempo real, animaciones y manejo de gráficos. </p>
     </a>
